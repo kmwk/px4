@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\modules",
+    "\\src\\modules\\battery_status"
+  ],
+  "SelectedNode": "\\src\\modules\\battery_status\\analog_battery.cpp",
+  "PreviewInSolutionExplorer": false
+}
