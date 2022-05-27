@@ -19,10 +19,15 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.onosproject</groupId>
+    <!--<groupId>org.onosproject</groupId>
     <artifactId>onos-base</artifactId>
     <packaging>pom</packaging>
-    <version>2</version>
+    <version>2</version>-->
+    <groupId>com.sarav</groupId>
+    <artifactId>TomcatMavenApp</artifactId>
+    <version>2.0</version>
+    <packaging>war</packaging>
+
 
     <name>${project.artifactId}</name>
     <description>Open Network Operating System Base Pom</description>
