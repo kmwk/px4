@@ -21,7 +21,7 @@
 
     <groupId>org.onosproject</groupId>
     <artifactId>onos-base</artifactId>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <version>2</version>
     
 
